@@ -1,0 +1,22 @@
+test.bmp
+10
+cifra0.bmp
+cifra1.bmp
+cifra2.bmp
+cifra3.bmp
+cifra4.bmp
+cifra5.bmp
+cifra6.bmp
+cifra7.bmp
+cifra8.bmp
+cifra9.bmp
+0 0 255
+0 255 255
+0 255 0
+255 255 0
+255 0 255
+255 0 0
+192 192 192
+0 140 255
+128 0 128
+0 0 128
